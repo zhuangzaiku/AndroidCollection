@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Collection</string>
+    <string name="tcp_server">tcp服务端</string>
+    <string name="tcp_client">tcp客户端</string>
+    <string name="tcp_state">tcp状态</string>
+    <string name="send">发送</string>
+
+    <string name="title_activity_content_provider">Activity/ContentProviderActivity</string>
+    <string name="title_activity_io">Activity/IOActivity</string>
+    <string name="title_activity_vpn">Activity/VPNActivity</string>
+    <string name="title_activity_widget">Activity/WidgetActivity</string>
+    <string name="title_activity_opengl">Activity/OpenGLActivity</string>
+    <string name="title_activity_ed">Activity/EmulatorDetectorActivity</string>
+    <string name="title_activity_tcp">Activity/TcpActivity</string>
+    <string name="title_activity_sensor">Activity/SensorActivity</string>
+    <string name="title_activity_earphone">Activity/EarphoneActivity</string>
+    <string name="title_activity_camera">Activity/CameraActivity</string>
+    <string name="title_activity_cardView">Activity/CardViewActivity</string>
+    <string name="title_activity_retrofit">Activity/RetrofitActivity</string>
+
+    <!--animation-->
+
+    <string name="title_activity_transition">Activity/TransitionActivity</string>
+    <string name="title_activity_transition_detail">Activity/TransitionDetailActivity</string>
+</resources>

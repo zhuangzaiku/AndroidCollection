@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:strokeTextView="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.example.ku.collection.activity.MainActivity">
+
+    <com.example.ku.collection.widget.StrokeTextView
+        android:id="@+id/combo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="6dip"
+        android:gravity="center"
+        android:text="阿道夫是电风扇的"
+        android:textStyle="bold|italic"
+        strokeTextView:innnerColor="@color/kk_text_combo"
+        strokeTextView:outerColor="#a8521b" />
+
+
+
+</RelativeLayout>

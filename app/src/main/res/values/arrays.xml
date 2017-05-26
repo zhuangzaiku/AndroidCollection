@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="demoList">
+        <!--<item>内容提供</item>-->
+        <!--<item>输入输出</item>-->
+        <!--<item>代理 </item>-->
+        <!--<item>自定义控件 </item>-->
+
+        <item>ContentProvider</item>
+        <item>IO</item>
+        <item>VPN </item>
+        <item>Widget </item>
+    </string-array>
+
+</resources>
